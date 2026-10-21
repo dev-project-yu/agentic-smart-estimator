@@ -1,0 +1,41 @@
+{
+  "metadata": {
+    "label": "Synthetic / Mock Data",
+    "note": "This file contains simulated university PI project references only for demonstration and is not tied to any real Seoul National University project data."
+  },
+  "projects": [
+    {
+      "id": "proj_001",
+      "university": "Seoul National University of Science and Technology",
+      "project_name": "Digital Student Service Transformation",
+      "duration_months": 3,
+      "module_ids": ["student_service", "system_integration", "analytics_report"],
+      "effort_pm": 28,
+      "final_cost_krw": 142000000,
+      "outcome_ids": ["out_001", "out_002", "out_004"],
+      "summary": "This mock project optimized student service flow and simplified digital service access for a smart campus experience."
+    },
+    {
+      "id": "proj_002",
+      "university": "Korea University",
+      "project_name": "Administrative Approval Workflow Redesign",
+      "duration_months": 6,
+      "module_ids": ["admin_approval", "system_integration", "data_analytics"],
+      "effort_pm": 42,
+      "final_cost_krw": 196000000,
+      "outcome_ids": ["out_003", "out_005", "out_006"],
+      "summary": "The mock project streamlined approval workflow, built governance templates, and improved administrative transparency."
+    },
+    {
+      "id": "proj_003",
+      "university": "Hanyang University",
+      "project_name": "Academic Operations Optimization",
+      "duration_months": 4,
+      "module_ids": ["academic_regulation", "student_service", "analytics_report"],
+      "effort_pm": 33,
+      "final_cost_krw": 168000000,
+      "outcome_ids": ["out_001", "out_002", "out_006"],
+      "summary": "This historical mock project improved academic processes with process mining and service redesign."
+    }
+  ]
+}

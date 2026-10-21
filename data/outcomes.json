@@ -1,0 +1,14 @@
+{
+  "metadata": {
+    "label": "Synthetic / Mock Data",
+    "note": "Deliberately simulated deliverables for a PI project demo."
+  },
+  "outcomes": [
+    {"id": "out_001", "name": "As-Is / To-Be 业务流程地图", "type": "process", "description": "流程分析与优化蓝图"},
+    {"id": "out_002", "name": "需求说明书", "type": "documentation", "description": "系统和业务需求的详细说明"},
+    {"id": "out_003", "name": "审批权限与角色模型", "type": "governance", "description": "审批分层和责任界定"},
+    {"id": "out_004", "name": "服务体验改进方案", "type": "service", "description": "提升学生和教职工服务体验"},
+    {"id": "out_005", "name": "集成与接口设计文档", "type": "integration", "description": "对接方案与测试策略"},
+    {"id": "out_006", "name": "绩效成果报告", "type": "report", "description": "效率提升与效益评估"}
+  ]
+}

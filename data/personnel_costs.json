@@ -1,0 +1,14 @@
+{
+  "metadata": {
+    "label": "Synthetic / Mock Data",
+    "note": "Monthly costs are representative market assumptions for demonstration."
+  },
+  "roles": [
+    {"role": "PM", "monthly_cost_krw": 18000000, "focus": "项目管理、规划、跨部门协调"},
+    {"role": "BA", "monthly_cost_krw": 12000000, "focus": "业务分析、流程梳理、需求管理"},
+    {"role": "Developer", "monthly_cost_krw": 11000000, "focus": "系统开发、接口集成、流程改造"},
+    {"role": "QA", "monthly_cost_krw": 8500000, "focus": "测试、验收、风险控制"},
+    {"role": "UX", "monthly_cost_krw": 9500000, "focus": "服务设计、用户旅程、界面优化"},
+    {"role": "Data", "monthly_cost_krw": 10500000, "focus": "数据分析、指标管理、报告设计"}
+  ]
+}
